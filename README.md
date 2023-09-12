@@ -1,2 +1,2 @@
 # WorldMonitor
-A package that monits the working signal and provides method to solve problems。
+A package that monits the working signals and provides method to solve problems。
